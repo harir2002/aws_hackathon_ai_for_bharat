@@ -1,0 +1,6 @@
+# For local testing only
+# boto3 is pre-installed in AWS Lambda runtime
+boto3>=1.34.0
+
+# No additional packages needed for this project
+# Add any extra dependencies here if needed
